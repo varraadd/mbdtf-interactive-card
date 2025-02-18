@@ -12,4 +12,4 @@ This is a project that showcases a dynamic card flip effect using HTML and CSS.
 ## Installation
 Clone the repository:
 ```bash
-git clone https://github.com/your-username/repository-name.git
+git clone https://github.com/varraadd/mbdtf_interactive-card.git
